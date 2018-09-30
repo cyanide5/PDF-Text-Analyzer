@@ -11,3 +11,5 @@ This can be done by running the following:<br>
 import nltk
 nltk.download('punkt')
 ```
+# Author
+Joey Flowers
